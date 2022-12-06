@@ -3,7 +3,7 @@
 </h1>
 
 
-Projeto resultado do curso [HTML e CSS: praticando HTML/CSS](https://www.alura.com.br/curso-online-html-css-praticando-html-css) da [Alura](https://www.alura.com.br/) com [Mônica Hillman](https://github.com/MonicaHillman) 😎
+Projeto resultado do curso **[HTML e CSS: praticando HTML/CSS](https://www.alura.com.br/curso-online-html-css-praticando-html-css)** da **[Alura](https://www.alura.com.br/)** com **[Mônica Hillman](https://github.com/MonicaHillman)** 😎
 
 > **Alura Plus:** https://bvin7.github.io/aluraplus-curso/
 
