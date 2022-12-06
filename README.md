@@ -14,6 +14,6 @@ Projeto resultado do curso [HTML e CSS: praticando HTML/CSS](https://www.alura.c
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-### Preview 🔆
+## Preview 🔆
 
 ![AluraPlus-final](https://user-images.githubusercontent.com/104274422/205735135-509ac687-1f8e-4f3d-a476-91e0804fc1a0.gif)
